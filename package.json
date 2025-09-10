@@ -1,0 +1,27 @@
+{
+  "name": "react-basic-component-generator",
+  "version": "0.0.1",
+  "description": "a set of commands to generate a basic structure for react components",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stsmuniz/react-basic-component-generator.git"
+  },
+  "keywords": [
+    "react",
+    "component",
+    "generator",
+    "cli",
+    "helper"
+  ],
+  "author": "Salustiano Muniz <stsmuniz@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/stsmuniz/react-basic-component-generator/issues"
+  },
+  "homepage": "https://github.com/stsmuniz/react-basic-component-generator#readme"
+}
